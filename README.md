@@ -52,5 +52,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tagoki&theme=aura_dark" alt=""/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tagoki&theme=aura_dark" alt=""/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tagoki&theme=aura_dark&utcOffset=8" alt=""/>
-  <img src="https://leetcard.jacoblin.cool/tagoke?ext=heatmap" alt=""/>
+</div>
+<div id="stat_code_wars" align="center">
+<img src="https://www.codewars.com/users/tagoki/badges/large"alt=""/>
 </div>
