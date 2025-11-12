@@ -21,7 +21,7 @@
 ---
 
 ### :bust_in_silhouette: Обо мне:(стек технологий не актуальный, в будущем заменю стек на НЛП технологии)
-Я — начинающий ML-инженер с уклоном в computer vision <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+Я — начинающий ML-инженер с уклоном в NLP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 
 - В данный момент занимаюсь написанием проектов в области классического ML, направленных на демонстрацию работы основных алгоритмов.
 - Осваиваю сферу computer vision и deep learning.
