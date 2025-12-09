@@ -4,7 +4,7 @@
     <a href="https://habr.com/ru/users/tagoki/">
       <img src="https://img.shields.io/badge/habr-black?logo=Habr&logoColor=white&style=for-the-badge"/>
     </a>
-    <a href="https://t.me/hakunos">
+    <a href="https://t.me/pnacea">
       <img src="https://img.shields.io/badge/telegram-black?logo=telegram&logoColor=white&style=for-the-badge" alt="tg"/>
     </a>
   </div>
