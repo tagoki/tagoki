@@ -20,7 +20,7 @@
 
 ---
 
-### :bust_in_silhouette: Обо мне:(стек технологий не актуальный, в будущем заменю стек на НЛП технологии)
+### :bust_in_silhouette: Обо мне:
 Я — начинающий ML-инженер с уклоном в NLP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 
 - В данный момент занимаюсь написанием проектов в области классического ML, направленных на демонстрацию работы основных алгоритмов.
@@ -33,13 +33,14 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain-wordmark.svg" title="matplotlib" alt="matplotlib" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-plain-wordmark.svg" title="keras" alt="keras" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="torch" alt="torch" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain-wordmark.svg" title="numpy" alt="numpy" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="tensorflow" alt="tensorflow" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-plain-wordmark.svg" title="OpenCV" alt="OpenCV" width="90" height="90"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi" alt="fastapi" width="90" height="90"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain-wordmark.svg" title="pandas" alt="pandas" width="90" height="90"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="Python" width="90" height="90"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-plain.svg" title="scikit-learn" alt="scikit-learn" width="90" height="90"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="90" height="90"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqllite" alt="sqllite" width="90" height="90"/>&nbsp;
 </div>
 
 ---
