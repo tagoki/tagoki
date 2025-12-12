@@ -41,6 +41,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-plain.svg" title="scikit-learn" alt="scikit-learn" width="90" height="90"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="90" height="90"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqllite" alt="sqllite" width="90" height="90"/>&nbsp;
+  <img src="https://cdn.brandfetch.io/idS8GMP5c8/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1742926327412" title="sqllite" alt="sqllite" width="120" height="120"/>&nbsp;
 </div>
 
 ---
