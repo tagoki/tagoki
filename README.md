@@ -25,7 +25,7 @@
 
 - В данный момент занимаюсь написанием проектов в области классического ML, направленных на демонстрацию работы основных алгоритмов.
 - Осваиваю сферу NLP и deep learning.
-- Связаться со мной можно через мой Telegram: [![tg](https://img.shields.io/badge/telegram-black?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/hakunos)
+- Связаться со мной можно через мой Telegram: [![tg](https://img.shields.io/badge/telegram-black?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/embending)
 
 ---
 
