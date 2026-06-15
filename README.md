@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZiOWs2ajB4ODlwdHZieGoxcWVyaWFuOGs4aXk1ZXd5cWtjYnc5cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TrVla4Z2PYEkU/giphy.gif" width="200" height="120"/>
+  <img src="https://i.pinimg.com/originals/6b/bf/a2/6bbfa2a5f8505e4fdde32d513e109dbb.gif" width="400" height="200"/>
   <div id="badges">
     <a href="https://habr.com/ru/users/tagoki/">
       <img src="https://img.shields.io/badge/habr-black?logo=Habr&logoColor=white&style=for-the-badge"/>
